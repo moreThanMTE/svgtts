@@ -1,0 +1,12 @@
+{
+  "name": "svgtts",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "tsxvg": "index.js"
+  },
+  "author": "more-than-mte",
+  "license": "MIT",
+  "description": "Turn SVGs into TSX components, also allowing you to customize their height and width."
+}
