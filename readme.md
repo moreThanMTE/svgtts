@@ -1,10 +1,6 @@
 # SVGTTS
 Turn SVGs into TSX components, also allowing you to customize their height and width.
 
-## install
-
-```npm install svgtts```
-
 ## how to use?
 ```npx svgtts [your svg]```
 
