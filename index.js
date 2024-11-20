@@ -24,8 +24,6 @@ const modifiedSvgContent = svgContent.replace(
 )
 
 const tsxContent = `
-import React from 'react'
-
 export default function SvgComponent({ height, width }: { height: number, width: number }) {
   const heightPx = height.toString() + 'px'
   const widthPx = width.toString() + 'px'
