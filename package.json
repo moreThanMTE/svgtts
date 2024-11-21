@@ -1,6 +1,6 @@
 {
   "name": "svgtts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "type": "module",
   "bin": {
@@ -14,5 +14,10 @@
   ],
   "author": "more-than-mte",
   "license": "MIT",
-  "description": "Turn SVGs into TSX components, also allowing you to customize their height and width."
+  "description": "Turn SVGs into TSX components, also allowing you to customize their height and width.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moreThanMTE/svgtts.git"
+  },
+  "homepage": "https://github.com/moreThanMTE/svgtts#readme"
 }
